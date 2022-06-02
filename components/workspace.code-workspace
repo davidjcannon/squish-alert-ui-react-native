@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "squishalertui",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../Desktop/assets"
+		}
+	],
+	"settings": {}
+}
